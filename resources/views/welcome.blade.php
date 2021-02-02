@@ -128,5 +128,11 @@
                 </div>
             </div>
         </div>
+        <script src="{{ asset('js/app.js') }}"></script>
+        <script src="{{ asset('js/swal.js') }}"></script>
+        <script src="{{ asset('js/custom.js') }}"></script>
+        <script>
+         
+            </script>
     </body>
 </html>
